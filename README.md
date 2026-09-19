@@ -1,5 +1,7 @@
 # pi-web-tools
 
+> **Archived:** this package moved into [`NhanChau2409/pi-workbench`](https://github.com/NhanChau2409/pi-workbench) and is maintained there under `extensions/web-tools/`. Install `git:github.com/NhanChau2409/pi-workbench@v0.2.0` or newer.
+
 Small, owned web tools for [Pi](https://pi.dev):
 
 - `web_search` uses OpenAI's native web search through the currently selected `openai-codex-responses` model and Pi's existing subscription OAuth credential.
